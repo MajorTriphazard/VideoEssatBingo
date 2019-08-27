@@ -1,0 +1,15 @@
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\bin\Debug\VideoEssayBingo.exe.config
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\bin\Debug\VideoEssayBingo.exe
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\bin\Debug\VideoEssayBingo.pdb
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\VideoEssayBingo.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\View\MainWindow.g.cs
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\App.g.cs
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\VideoEssayBingo_MarkupCompile.cache
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\VideoEssayBingo_MarkupCompile.lref
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\View\MainWindow.baml
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\VideoEssayBingo.g.resources
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\VideoEssayBingo.Properties.Resources.resources
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\VideoEssayBingo.csproj.GenerateResource.Cache
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\VideoEssayBingo.exe
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\VideoEssayBingo.pdb
+c:\users\scott\documents\visual studio 2017\Projects\VideoEssayBingo\VideoEssayBingo\obj\Debug\GeneratedInternalTypeHelper.g.cs
